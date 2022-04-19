@@ -1,0 +1,4 @@
+{
+    "lsp.formatOnSave": true,
+    "lsp.server": "go=gopls,rust=rust-analyzer"
+}
